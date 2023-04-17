@@ -1,0 +1,5 @@
+Car
+Motorcycle
+Ambulance
+Bus
+Truck
